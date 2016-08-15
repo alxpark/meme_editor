@@ -1,0 +1,27 @@
+{
+  "name": "meme_editor",
+  "version": "1.0.0",
+  "description": "Meme Editor based on FabricJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexSangJoonPark/meme_editor.git"
+  },
+  "keywords": [
+    "meme",
+    "fabric"
+  ],
+  "author": "Alex Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexSangJoonPark/meme_editor/issues"
+  },
+  "homepage": "https://github.com/AlexSangJoonPark/meme_editor#readme",
+  "dependencies": {
+    "fabric": "^1.6.3",
+    "jquery": "^3.1.0"
+  }
+}
