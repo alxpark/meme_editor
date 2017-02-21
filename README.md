@@ -12,3 +12,6 @@ Meme Editor based on FabricJS
 ## DEMO
 
 [Demo Pages](https://alexsangjoonpark.github.io/meme_editor/)
+
+
+Azure Func Test
